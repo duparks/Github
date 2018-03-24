@@ -1,7 +1,7 @@
 # Lecture
 
 https://docs.google.com/document/d/1SdjG_MDykLs7vQnJp5h8Tgm7uMMfme7B_z5VdJIS_zo/edit#
-* http://nbviewer.jupyter.org/gist/duparks/202991815de0a7c7700e218e03eb4633
+* https://nbviewer.ipython.org/202991815de0a7c7700e218e03eb4633
 
 
 
