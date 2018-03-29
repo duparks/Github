@@ -11,3 +11,7 @@ https://pandas.pydata.org/pandas-docs/stable/io.html
 
 
 https://matthewgilbert.github.io/pdblp/
+
+
+
+you could install it from conda macinv channel: conda install -c macinv blpapi
