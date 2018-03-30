@@ -15,3 +15,7 @@ https://matthewgilbert.github.io/pdblp/
 
 
 you could install it from conda macinv channel: conda install -c macinv blpapi
+
+https://tonyne.jeju.onl/2016/04/12/centos-python-oracle-module/
+
+
